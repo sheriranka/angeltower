@@ -1,0 +1,31 @@
+SMALL
+
+sp	h	p	m	s	wk	str	g	id
+
+64	15	6	4	9	f	i	40	1
+96	20	4	6	7	i	t	40	2
+70	21	5	5	9	i	f	40	3
+102	25	5	2	4	t	n	55	4
+
+
+
+LARGE
+
+sp	h	p	m	s	wk	str	g	id
+
+76	40	4	9	8	f	i	55	1
+72	60	8	5	7	n	t	120	2
+66	80	3	4	6	i	f	100	3
+
+
+
+
+BOSSES
+
+sp	h	p	m	s	wk	str	g	id
+
+132	231	18	15	15	t	i	600	1
+136	475 	25	20	27	i	f	900	2
+140	699	35	32	34	f	t	1200	3
+204	1200	50	50	50	n	x	2000	4
+
